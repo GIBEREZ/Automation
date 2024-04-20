@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<root>
+	<A1 name="main" title="MuMu模拟器12" note="公主连结">
+		<trunk name="1" type="图像识别" path="Image/logo.png" text="" act="鼠标左键"/>
+		<trunk name="2" type="图像识别" path="Image/KSYX.png" text="" act="鼠标左键"/>
+		<trunk name="3" type="图像识别" path="Image/TZ.png" text="" act="鼠标左键"/>
+		<trunk name="4" type="图像识别" path="Image/RCB.png" text="" act="鼠标左键"/>
+	</A1>
+	<A2 name="main" title="MuMu模拟器12" note="公主连结">
+		<trunk name="1" type="图像识别" path="A1_1.jpg" text="" act="鼠标左键"/>
+		<trunk name="2" type="图像识别" path="A1_2.jpg" text="" act="鼠标左键"/>
+		<trunk name="3" type="图像识别" path="A1_3.jpg" text="" act="鼠标左键"/>
+		<trunk name="4" type="图像识别" path="A1_4.jpg" text="" act="鼠标左键"/>
+	</A2>
+</root>
